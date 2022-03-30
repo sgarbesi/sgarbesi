@@ -74,7 +74,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 | 🌩️ &nbsp;&nbsp;[Cloud Providers](#%EF%B8%8F--cloud-providers) | [Amazon AWS](https://aws.amazon.com/) |
 | 🎨 &nbsp;&nbsp;[Design](#--design) | [Adobe Photoshop](https://www.adobe.com/products/photoshop/) |
 | 🌐 &nbsp;&nbsp;[HTTP Servers](#-http-servers) | [nginx](https://nginx.org/) |
-| 🪵 &nbsp;&nbsp;[Logs](#-logs) | [nginx](https://nginx.org/) |
+| 🪵 &nbsp;&nbsp;[Logs](#-logs) | [AWS CloudWatch](https://aws.amazon.com/cloudwatch/) |
 | 📼 &nbsp;&nbsp;[Media Encoding / Streaming / Transcoding](#-media-encoding--streaming--transcoding) | [ffmpeg](https://ffmpeg.org/) |
 | 🤯 &nbsp;&nbsp;[NoSQL](#--nosql) | [Redis](https://redis.io/) |
 | 📦 &nbsp;&nbsp;[Package Managers](#-package-managers) | [NPM](https://nodejs.org/) |
