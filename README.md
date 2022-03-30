@@ -1,6 +1,6 @@
 <p>
 
-<img align="left" height="177" src="https://media.giphy.com/media/LRlI1B6Gdcf3MJz59u/giphy.gif" />
+<img align="left" height="177" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/section-1-main.webp" />
 
 👋  Who are you? Someone who's been doing this before GitHub existed.
 That says a little or a lot, it depends on who you are. Think on it and get back to me.
@@ -15,19 +15,19 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 <img align="left" src="https://visitor-badge.glitch.me/badge?page_id=sgarbesi.visitor-badge&left_text=VISITORS&left_color=yellow&right_color=red" />
 
 <a href="mailto:sal@dolox.com">
-  <img align="right" alt="Email" height="24" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1772226-1507810.png" />
+  <img align="right" alt="Email" height="24" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/gmail.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://discordapp.com/users/203060563423657984">
-  <img align="right" alt="Discord" height="24" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+  <img align="right" alt="Discord" height="24" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/discord.svg" />
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/sgarbesi/">
-  <img align="right" alt="Twitter" height="24" src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" />
+  <img align="right" alt="Twitter" height="24" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/twitter.png" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sgarbesi/">
-  <img align="right" alt="LinkedIn" height="24" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" />
+  <img align="right" alt="LinkedIn" height="24" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/linkedin.png" />
 </a>
 	
 </p>
