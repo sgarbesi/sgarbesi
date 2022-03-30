@@ -35,17 +35,11 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 
 ---
 
-<h3 align="center">
-<p>&nbsp;</p>
-<p align="center">📒 &nbsp;&nbsp;The Technology TOC</p>
-<p>&nbsp;</p>
-</h3>
-
 <img align="left" src="https://media.giphy.com/media/329z9bpgRCdlDcdgnW/giphy.gif" width="156" />
 
 <img align="right" src="https://media.giphy.com/media/329z9bpgRCdlDcdgnW/giphy.gif" width="156" />
 
-| 🔰 &nbsp;&nbsp;Section | ❤️ &nbsp;&nbsp;Favorite |
+| 📒 &nbsp;&nbsp;Section | ❤️ &nbsp;&nbsp;Favorite |
 | --- | ----- |
 | 🙊 &nbsp;&nbsp;[Core Languages](#-core-languages) | [Node.js](https://nodejs.org/) |
 | 🖍️ &nbsp;&nbsp;[Descriptive, Markup and Notation Languages](#%EF%B8%8F-descriptive-markup-and-notation-languages) | [JSON](https://www.json.org/j) |
