@@ -34,7 +34,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 
 ---
 
-<img align="right" height="230" src="https://media.giphy.com/media/j1nXa2S9Vc28VQSXYS/giphy.gif" />
+<img align="right" height="230" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/section-2-main.webp" />
 
 🏠 &nbsp;&nbsp;Location: Miami, Philadelphia, New York
 
@@ -52,13 +52,13 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 
 <p>&nbsp;</p>
 
-<p align="center"><img height="256" src="https://media.giphy.com/media/WmbQ8SvFuZngI/giphy.gif" /></p>
+<p align="center"><img height="256" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/section-3-main.webp" /></p>
 
 <h3><p align="center">Table of Contents</p></h3>
 
-<img align="left" src="https://media.giphy.com/media/U7PwlrLCvk0Zoviyht/giphy.gif" width="156" />
+<img align="left" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/section-3-side.webp" width="156" />
 
-<img align="right" src="https://media.giphy.com/media/U7PwlrLCvk0Zoviyht/giphy.gif" width="156" />
+<img align="right" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/section-3-side.webp" width="156" />
 
 | 📒 &nbsp;&nbsp;Section | ❤️ &nbsp;&nbsp;Favorite |
 | --- | ----- |
@@ -91,7 +91,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 ---
 
 <p align="center">
-	<img src="https://media.giphy.com/media/fAhxtf0VK7cVAVJdCW/giphy.gif" width="200" />
+	<img src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/section-4-main.webp" width="200" />
 </p>
 
 ### 🙊 &nbsp;&nbsp;Core Languages
