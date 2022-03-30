@@ -35,6 +35,8 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 
 ---
 
+<p>&nbsp;</p>
+
 <img align="left" src="https://media.giphy.com/media/329z9bpgRCdlDcdgnW/giphy.gif" width="156" />
 
 <img align="right" src="https://media.giphy.com/media/329z9bpgRCdlDcdgnW/giphy.gif" width="156" />
