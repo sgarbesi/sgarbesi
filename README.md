@@ -1,5 +1,6 @@
 <p>
-	<img align="left" height="177" src="https://media.giphy.com/media/LRlI1B6Gdcf3MJz59u/giphy.gif" />
+
+<img align="left" height="192" src="https://media.giphy.com/media/LRlI1B6Gdcf3MJz59u/giphy.gif" />
 
 👋  Who are you? Someone who's been doing this before GitHub existed.
 That says a little or a lot, it depends on who you are. Think on it and get back to me.
@@ -10,11 +11,25 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 <p></p>
 
 <p align="center">
-	<img src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Square-1024x1024.png" height="16" /> <a href="https://discordapp.com/users/203060563423657984">Discord</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	✉️  &nbsp;<a href="mailto:sal@dolox.com">Email</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	🐦 &nbsp;<a href="https://twitter.com/sgarbesi" target="_blank">Twitter</a>
+
+<img align="left" src="https://visitor-badge.glitch.me/badge?page_id=sgarbesi.visitor-badge&left_text=VISITORS&left_color=yellow&right_color=red" />
+
+<a href="mailto:sal@dolox.com">
+  <img align="right" alt="Email" height="24" src="https://cdn.iconscout.com/icon/free/png-256/gmail-1772226-1507810.png" />
+</a>
+&nbsp;&nbsp;
+<a href="https://discordapp.com/users/203060563423657984">
+  <img align="right" alt="Discord" height="24" src="https://www.svgrepo.com/show/353655/discord-icon.svg" />
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/sgarbesi/">
+  <img align="right" alt="Twitter" height="24" src="https://cdn.iconscout.com/icon/free/png-256/twitter-241-721979.png" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sgarbesi/">
+  <img align="right" alt="LinkedIn" height="24" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-162-498418.png" />
+</a>
+	
 </p>
 
 ---
@@ -37,9 +52,13 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 
 <p>&nbsp;</p>
 
-<img align="left" src="https://media.giphy.com/media/329z9bpgRCdlDcdgnW/giphy.gif" width="156" />
+<p align="center"><img height="256" src="https://media.giphy.com/media/WmbQ8SvFuZngI/giphy.gif" /></p>
 
-<img align="right" src="https://media.giphy.com/media/329z9bpgRCdlDcdgnW/giphy.gif" width="156" />
+<h3><p align="center">Table of Contents</p></h3>
+
+<img align="left" src="https://media.giphy.com/media/U7PwlrLCvk0Zoviyht/giphy.gif" width="156" />
+
+<img align="right" src="https://media.giphy.com/media/U7PwlrLCvk0Zoviyht/giphy.gif" width="156" />
 
 | 📒 &nbsp;&nbsp;Section | ❤️ &nbsp;&nbsp;Favorite |
 | --- | ----- |
