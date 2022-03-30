@@ -1,5 +1,5 @@
 <p>
-	<img align="left" height="192" src="https://media.giphy.com/media/RqXtnMg3dWMne/giphy.gif" />
+	<img align="left" height="177" src="https://media.giphy.com/media/RqXtnMg3dWMne/giphy.gif" />
 
 👋  Who are you? Someone who's been doing this before GitHub existed.
 That says a little or a lot, it depends on who you are. Think on it and get back to me.
