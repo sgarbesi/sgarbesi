@@ -75,8 +75,6 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 	<img src="https://media.giphy.com/media/fAhxtf0VK7cVAVJdCW/giphy.gif" width="200" />
 </p>
 
-<p>&nbsp;</p>
-
 ### 🙊 &nbsp;&nbsp;Core Languages
 
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
