@@ -423,7 +423,6 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/section-5-main.webp" width="200" />
-
 	<h3 align="center">
 		<p align="center">You made it this far, you must be interested in something.</p>
 	</h3>
