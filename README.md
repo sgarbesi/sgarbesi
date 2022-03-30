@@ -19,7 +19,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 
 ---
 
-<img align="right" height="248" src="https://media.giphy.com/media/j1nXa2S9Vc28VQSXYS/giphy.gif" />
+<img align="right" height="230" src="https://media.giphy.com/media/j1nXa2S9Vc28VQSXYS/giphy.gif" />
 
 🏠 &nbsp;&nbsp;Location: Miami, Philadelphia, New York
 
