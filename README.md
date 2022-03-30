@@ -73,9 +73,6 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 
 <p align="center">
 	<img src="https://media.giphy.com/media/fAhxtf0VK7cVAVJdCW/giphy.gif" width="200" />
-<h3 align="center">
-<p align="center">🚀 &nbsp;&nbsp;The Technology Experience</p>
-</h3>
 </p>
 
 <p>&nbsp;</p>
