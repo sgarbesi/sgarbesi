@@ -198,7 +198,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 | [Opauth](https://github.com/opauth/opauth) | PHP | 2018 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [Passport](https://www.passportjs.org/) | Node.js | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [React](https://reactjs.org/) | JavaScript | 2019 | On Demand | ❤️ | ⭐⭐⭐⭐ |
-| [Redux](https://redux.js.org/) | JavaScript | 2019 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
+| [Redux](https://redux.js.org/) | JavaScript | 2019 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [Sequelize](https://sequelize.org/) | Node.js | 2017 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [Socket.IO](https://socket.io/) | JavaScript | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [Underscore](https://underscorejs.org/) | JavaScript | 2013 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
