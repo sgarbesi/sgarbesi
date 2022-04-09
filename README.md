@@ -108,6 +108,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 | [GoLang](https://go.dev/) | 2020 | On Demand | ✖️ | ⭐⭐⭐ |
 | [GraphQL](https://graphql.org/) | 2020 | On Demand | ✖️ | ⭐⭐⭐ |
 | [Haskell](https://www.haskell.org/) | 2022 | On Demand | ✖️ | ⭐ |
+| [Java](https://www.java.com/) | 2004 | On Demand | ✖️ | ⭐⭐⭐⭐ |
 | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | 2001 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
 | [Lua](https://www.lua.org/) | 2014 | On Demand | ✖️ | ⭐⭐ |
 | [Node.js](https://nodejs.org/) | 2009 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
