@@ -1,7 +1,7 @@
 ---
 categories: coding js
 date: 2014-06-12
-feature_style: "background-image: url('https://m.media-amazon.com/images/M/MV5BN2JjMTllN2YtODY5Yi00MzdmLTg2YWItMGYwNDYyZDNiNjUyXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_.jpg')"
+feature_style: "background-image: url('img/post-assets/2014-06-12-why-to-document-your-code/the-simpsons-scientist-lab.jpg')"
 layout: post
 subtitle: "Save yourself now from a number of headaches down the line."
 title: "Why To Document Your Code"
@@ -13,7 +13,7 @@ I'll cover my personal experiences coding with other engineers and how not heavi
 
 ## Old Philosophy
 
-![](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/MikeKlein/phpcDFUvu.png)
+![](img/post-assets/2014-06-12-why-to-document-your-code/homer-simpson-chess.png)
 
 I use to preach, live and code by the following philosophy:
 
@@ -25,7 +25,7 @@ As far as the comments being reserved for excessively complex areas and algorith
 
 ---
 
-![](https://web.archive.org/web/20150206072948im_/http://salvatore.garbesi.com/content/images/2014/Jun/TiNOd.jpg)
+![](img/post-assets/2014-06-12-why-to-document-your-code/the-simpsons-scientist-calculator.jpeg)
 
 ## New Philosophy
 
@@ -37,7 +37,7 @@ In the following sections I'll elaborate on my new philosophy and hopefully, sav
 
 ---
 
-![](/img/post-assets/2014-06-12-why-to-document-your-code/Bart-Looking_Monster.png)
+![](img/post-assets/2014-06-12-why-to-document-your-code/bart-simpson-monster.png)
 
 ## The Puppy That Became The Beast
 
@@ -51,7 +51,7 @@ I'm actively working on a project that started with 2 engineers and birthed 50k 
 
 ---
 
-![](https://sites.williams.edu/f18-engl117-01/files/2017/11/maxresdefault.jpg)
+![](img/post-assets/2014-06-12-why-to-document-your-code/the-simpsons-car-scream.jpeg)
 
 ## Avoiding Code Replication
 
@@ -88,7 +88,7 @@ We had come to find out that we wrote the same functions, with our own unique tw
 
 ---
 
-![](https://tvline.com/wp-content/uploads/2020/10/the-simpsons-video-election-homer-voting.png)
+![](img/post-assets/2014-06-12-why-to-document-your-code/homer-simpson-voting.png)
 
 ## Fingerprints In Code
 
@@ -136,7 +136,7 @@ Let's flip #3 Learning From Your Peers that we just listed above. You're the roc
 
 ## Hiring New People
 
-![](/img/post-assets/2014-06-12-why-to-document-your-code/Bart_vs._Itchy_and_Scratchy.png)
+![](img/post-assets/2014-06-12-why-to-document-your-code/bart-vs-itchy-and-scratchy.png)
 
 If you've ever been involved in the hiring process or ever plan to be, this should be a ⛳ **major red flag** for you.
 
@@ -168,6 +168,6 @@ I hope this article gave you some incentive to better document your code, in the
 
 - Dealing with a growing project for the long haul.
 - Using keywords and phrases to easily find snippets of code.
-- Avoiding code replication.
+- Why to avoid code replication.
 - Learning from your peers.
 - Saving time and money when hiring new people.
