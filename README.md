@@ -2,7 +2,7 @@
 
 <img align="left" height="177" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/section-1-main.webp" />
 
-👋 Chief Technology Officer
+👋  Chief Technology Officer
 
 Live, Learn, Code, Repeat.
 
