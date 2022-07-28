@@ -47,7 +47,7 @@ Live, Learn, Code, Repeat.
 
 💪 &nbsp;&nbsp;Favorite Sport: Weightlifting
 
-🏋 &nbsp;&nbsp;Personal Record: 487 lb Bench Press (2011)
+🏋 &nbsp;&nbsp;Personal Record: 487 lbs Bench Press (2011)
 
 ---
 
@@ -372,7 +372,7 @@ Live, Learn, Code, Repeat.
 | [AWS ElastiCache](https://aws.amazon.com/elasticache/) | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [AWS Kinesis](https://aws.amazon.com/kinesis/) | 2022 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
-| [AWS Lambda](https://aws.amazon.com/lambda/) | 2019 | On Demand | ❤️ | ⭐⭐⭐⭐ |
+| [AWS Lambda](https://aws.amazon.com/lambda/) | 2019 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [AWS RDS](https://aws.amazon.com/rds/) | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [AWS S3](https://aws.amazon.com/s3/) | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [AWS SNS](https://aws.amazon.com/sns/) | 2014 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
