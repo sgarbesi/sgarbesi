@@ -370,6 +370,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 | [AWS ECS](https://aws.amazon.com/ecs/) | 2013 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
 | [AWS ElastiCache](https://aws.amazon.com/elasticache/) | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
+| [AWS Kinesis](https://aws.amazon.com/kinesis/) | 2022 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [AWS Lambda](https://aws.amazon.com/lambda/) | 2019 | On Demand | ❤️ | ⭐⭐⭐⭐ |
 | [AWS RDS](https://aws.amazon.com/rds/) | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [AWS S3](https://aws.amazon.com/s3/) | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
