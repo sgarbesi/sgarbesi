@@ -301,6 +301,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 | [Grafana](https://grafana.com/) | 2019 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [Kibana](https://www.elastic.co/kibana/) | 2014 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [Logstash](https://www.elastic.co/logstash/) | 2014 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
+| [OpenSearch Dashboards](https://opensearch.org/) | 2021 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -390,7 +391,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 | [AWS CloudSearch](https://aws.amazon.com/cloudsearch/) | 2013 | On Demand | ✖️ | ⭐⭐⭐ |
 | [ElasticSearch](https://www.elastic.co/) | 2013 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [mnoGoSearch](http://www.mnogosearch.org/) | 2007 | On Demand | ✖️ | ⭐⭐ |
-| [OpenSearch](https://opensearch.org/) | 2022 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
+| [OpenSearch](https://opensearch.org/) | 2021 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
 | [Sphinx](http://sphinxsearch.com/) | 2011 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 
 ---
