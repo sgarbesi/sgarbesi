@@ -231,6 +231,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 
 | Name | Started | Frequency | Favorite | Experience (1 - 5) |
 | ---- | ------- | --------- | -------- | ------------------ |
+| [Ansible](https://www.ansible.com/) | 2019 | On Demand | ✖️ | ⭐⭐⭐ |
 | [Browserify](https://browserify.org/) | 2013 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [Chef](https://www.chef.io/) | 2014 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [GitHub Actions](https://github.com/features/actions) | 2021 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
@@ -239,6 +240,7 @@ That says a little or a lot, it depends on who you are. Think on it and get back
 | [Jenkins](https://www.jenkins.io/) | 2013 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [Maven](https://maven.apache.org/) | 2019 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [PM2](https://pm2.keymetrics.io/) | 2019 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
+| [Terraform](https://www.terraform.io/) | 2021 | On Demand | ❤️ | ⭐⭐⭐⭐ |
 | [Yeoman](https://yeoman.io/) | 2013 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [Webpack](https://webpack.js.org/) | 2018 | Daily | ❤️ | ⭐⭐⭐⭐⭐ |
 
