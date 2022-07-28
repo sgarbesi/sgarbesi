@@ -2,8 +2,7 @@
 
 <img align="left" height="177" src="https://raw.githubusercontent.com/sgarbesi/sgarbesi/main/img/section-1-main.webp" />
 
-👋  Who are you? Someone who's been doing this before GitHub existed.
-That says a little or a lot, it depends on who you are. Think on it and get back to me.
+👋 Chief Technology Officier
 
 > *May the wind always be at your back and the sun upon your face. And may the wings of destiny carry you aloft to dance with the stars.*
 </p>
