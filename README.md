@@ -37,7 +37,7 @@
 
 🏠 &nbsp;&nbsp;Location: Miami, Philadelphia, New York
 
-🇮🇹 &nbsp;&nbsp;Italian American
+🇮🇹 &nbsp;&nbsp;Nationality: Italian American
 
 ⏰ &nbsp;&nbsp;Favorite Alarm: 5 AM
 
