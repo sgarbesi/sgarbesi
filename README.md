@@ -37,7 +37,7 @@
 
 🏠 &nbsp;&nbsp;Location: Miami, Philadelphia, New York
 
-🐺 &nbsp;&nbsp;Dog: Mimi (Shiba Inu)
+🇮🇹 &nbsp;&nbsp;Italian American
 
 ⏰ &nbsp;&nbsp;Favorite Alarm: 5 AM
 
