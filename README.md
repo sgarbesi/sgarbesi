@@ -64,7 +64,7 @@
 | 🙊 &nbsp;&nbsp;[Core Languages](#-core-languages) | [Node.js](https://nodejs.org/) |
 | 🖍️ &nbsp;&nbsp;[Descriptive, Markup and Notation Languages](#%EF%B8%8F-descriptive-markup-and-notation-languages) | [JSON](https://www.json.org/j) |
 | 🍬 &nbsp;&nbsp;[Preprocessors / Transpilers](#-preprocessors--transpilers) | [SASS](https://sass-lang.com/) |
-| 🪟 &nbsp;&nbsp;[Frameworks](#-frameworks) | [Next.js](https://nextjs.org/) |
+| 🪟 &nbsp;&nbsp;[Frameworks](#-frameworks) | [Nest.js](https://nestjs.com/) |
 | 📚 &nbsp;&nbsp;[Libraries](#-libraries) | [Lodash](https://lodash.com/) |
 | 🔮 &nbsp;&nbsp;[APIs](#-apis) | [Discord](https://www.discord.com/) |
 | 🧰 &nbsp;&nbsp;[Automation Tools](#-automation-tools) | [Webpack](https://webpack.js.org/) |
@@ -171,6 +171,7 @@
 | [Joomla](https://www.joomla.org/) | PHP | 2007 | On Demand | ✖️ | ⭐⭐⭐ |
 | [Laravel](https://laravel.com/) | PHP | 2021 | On Demand | ✖️ | ⭐⭐ |
 | [Mocha](https://mochajs.org/) | Node.js | 2013 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
+| [Nest.js](https://nestjs.com/) | JavaScript | 2021 | On Demand | ❤️ | ⭐⭐⭐⭐⭐ |
 | [Next.js](https://nextjs.org/) | JavaScript | 2022 | On Demand | ❤️ | ⭐⭐⭐⭐ |
 | [PHPUnit](https://phpunit.de/) | PHP | 2010 | On Demand | ✖️ | ⭐⭐⭐⭐⭐ |
 | [Semantic UI](https://semantic-ui.com/) | CSS | 2014 | On Demand | ✖️ | ⭐⭐⭐ |
